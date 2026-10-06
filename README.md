@@ -42,8 +42,6 @@ Visit **http://127.0.0.1:5000** in your browser. The tables will be created auto
 
 ---
 
-## 🚀 How to Use
-
 ## 🗂️ Project Structure
 
 ```
@@ -178,8 +176,3 @@ Sorting by degree means **highly-connected (high-conflict) subjects** are schedu
 - [ ] Multi-department support
 - [ ] Algorithm comparison (Greedy vs Backtracking)
 
----
-
-## 👨‍💻 Author
-DAA Project — B.Tech CSE  
-Greedy Graph Coloring for Exam Timetable Scheduling
